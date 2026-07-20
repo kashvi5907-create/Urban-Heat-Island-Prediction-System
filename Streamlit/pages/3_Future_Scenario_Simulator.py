@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # LOAD MODEL
-with open("best_model.pkl", "rb") as f:
+with open("Streamlit/best_model.pkl", "rb") as f:
     model = pickle.load(f)
 
 # CUSTOM CSS

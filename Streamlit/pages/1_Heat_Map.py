@@ -31,11 +31,11 @@ st.title("🗺️ Delhi Urban Heat Map")
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("final_dataset.csv")
+    return pd.read_csv("Streamlit/final_dataset.csv")
 
 df = load_data()
 
-with open("best_model.pkl", "rb") as f:
+with open("Streamlit/best_model.pkl", "rb") as f:
     model = pickle.load(f)
 
 # Sidebar 

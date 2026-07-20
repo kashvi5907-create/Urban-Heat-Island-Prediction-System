@@ -100,7 +100,7 @@ st.success("""
 """)
 
 st.subheader("Top Influential Variables")
-st.image("image.png", width=500)
+st.image("Streamlit/image.png", width=500)
     
 st.markdown("---")
 
