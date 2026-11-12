@@ -12,7 +12,7 @@ The system integrates remote sensing indices, geographical parameters, and weath
 
 ## 🎥 Project Demo
 
-[▶️ Watch the Project Demo on YouTube]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=9SK6O2fuL5Q))
+[▶️ Watch the Project Demo on YouTube](https://www.youtube.com/watch?v=9SK6O2fuL5Q)
 
 ## 🎯 Objectives
 
