@@ -10,6 +10,10 @@ This project presents a **machine learning-based framework for predicting Urban 
 
 The system integrates remote sensing indices, geographical parameters, and weather variables to predict Land Surface Temperature (LST). An interactive **Streamlit dashboard** enables users to explore predictions and visualize factors contributing to urban heat patterns.
 
+## 🎥 Project Demo
+
+[▶️ Watch the Project Demo on YouTube]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=9SK6O2fuL5Q))
+
 ## 🎯 Objectives
 
 - Analyze the Urban Heat Island phenomenon across Delhi.
